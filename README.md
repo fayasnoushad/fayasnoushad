@@ -22,7 +22,7 @@ With hands-on experience in **ReactJS**, **ExpressJS**, **Flask**, and **FastAPI
 
 ---
 
-🔧 **What I Enjoy**
+🚀 **What I Enjoy**
 
 - 💻 Developing web apps with clean and functional design
 - 🔍 Solving complex bugs and optimizing performance
