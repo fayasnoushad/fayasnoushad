@@ -1,53 +1,64 @@
-## 👋 Hi there, I'm Fayas
+## 👋 Hi, I'm Fayas
 
-🎓 BCA Student | 💻 Full Stack Developer | 🤖 Tech Enthusiast | 🧠 Problem Solver
-
----
-
-🧑‍💻 **About Me**
-
-I'm a BCA student at **Sadanam Kumaran College, Palakkad** (University of Calicut), passionate about crafting innovative web applications and solving real-world coding challenges.
-With hands-on experience in **ReactJS**, **ExpressJS**, **Flask**, and **FastAPI**, I specialize in full-stack development and love contributing to open-source projects—especially building bots and intelligent tools using Python.
+💻 Full Stack Developer | 🚀 Open Source Contributor | 🤖 Tech Enthusiast | 🧠 Problem Solver 
 
 ---
 
-🔧 **Tech Stack**
+### 🧑‍💻 About Me
 
-- 💻 Languages: Python, JavaScript, TypeScript, HTML, CSS
-- 🌐 Frontend: ReactJS, Bootstrap
-- 🔙 Backend: FastAPI, Flask, ExpressJS
-- 🗃️ Database: PostgreSQL, MongoDB
-- 📦 Tools: Git, VS Code, Pyrogram
-- 🧠 Skills: Full Stack Development, Debugging, Problem Solving, Data Structures
+- 🎓 BCA (Completed) | University of Calicut  
+- 🔥 Built apps used by **260+ users**  
+- ⭐ 500+ followers on GitHub  
+- 📦 Python package used by **4000+ repositories**  
 
----
-
-🚀 **What I Enjoy**
-
-- 💻 Developing web apps with clean and functional design
-- 🔍 Solving complex bugs and optimizing performance
-- 🚀 Exploring AI, backend tech, and automation tools
-- 🧠 Constantly learning through courses, practice, and contributions
+I love building real-world applications, contributing to open source, and exploring backend systems & AI.
 
 ---
 
-🏆 **Achievements**
+### 🚀 Tech Stack
 
-- 🥇 1st Place – *WEBSCAPE*, CCSIT Tech Fest – Web Design Competition (2025)
-- 🥈 2nd Place – *Trialblazer 9.0*, Mercy College – Debugging Challenge (2025)
-- 🥉 3rd Place – *GENESIS 2025*, Nehru College of Management – Debugging Competition
-- 🎯 Attended *WOW Summit Kerala 2025* by Google Developer Group – Focused on bridging academia & industry
-
----
-
-📫 **Let’s Connect**
-
-- 🌍 [LinkedIn](https://www.linkedin.com/in/fayasnoushad)
-- 💻 [GitHub](https://github.com/fayasnoushad)
-- ✈️ [Telegram](https://telegram.me/fayasnoushad)
+- **Languages:** Python, JavaScript, TypeScript 
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** FastAPI, Express.js, Flask  
+- **Database:** MongoDB, PostgreSQL  
 
 ---
 
-💬 *"Always eager to learn, collaborate, and grow in the tech space."*
+### 🔥 Featured Projects
+
+#### 🎯 Fest Management Website
+- QR-based event system with admin dashboard & real-time check-in  
+- Used in live tech fest → **260+ participants in one week**  
+- Deployed on Vercel  
+
+#### 🤖 Career Assistant
+- Full-stack platform with AI-powered recommendations  
+- Web scraping for real-time job listings  
+- Built with FastAPI + Next.js  
 
 ---
+
+### 📈 Open Source
+
+- ⭐ 500+ GitHub followers  
+- 🔥 Projects used by **4000+ repositories**  
+- 🚀 Active contributor & maintainer  
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Multiple 1st place wins in debugging competitions  
+- 🥇 Webscape (Web Designing – 2025)
+- 🎖️ Multiple top wins in debugging and speed typing competitions
+
+---
+
+### 📫 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/fayasnoushad  
+- 💻 GitHub: https://github.com/fayasnoushad  
+
+---
+
+💡 *Always building. Always learning.*
