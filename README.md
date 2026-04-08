@@ -11,7 +11,7 @@
 - ⭐ 500+ followers on GitHub  
 - 📦 Python package used by **4000+ repositories**  
 
-I love building real-world applications, contributing to open source, and exploring backend systems & AI.
+I love building real-world applications, contributing to open source, and exploring backend systems.
 
 ---
 
